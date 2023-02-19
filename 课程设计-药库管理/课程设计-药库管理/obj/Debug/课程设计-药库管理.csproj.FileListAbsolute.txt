@@ -1,0 +1,12 @@
+D:\课程设计-药库管理\课程设计-药库管理\bin\Debug\课程设计-药库管理.exe.config
+D:\课程设计-药库管理\课程设计-药库管理\bin\Debug\课程设计-药库管理.exe
+D:\课程设计-药库管理\课程设计-药库管理\bin\Debug\课程设计-药库管理.pdb
+D:\课程设计-药库管理\课程设计-药库管理\obj\Debug\课程设计-药库管理.csproj.AssemblyReference.cache
+D:\课程设计-药库管理\课程设计-药库管理\obj\Debug\课程设计-药库管理.csproj.SuggestedBindingRedirects.cache
+D:\课程设计-药库管理\课程设计-药库管理\obj\Debug\课程设计_药库管理.frm_LogIn.resources
+D:\课程设计-药库管理\课程设计-药库管理\obj\Debug\课程设计_药库管理.Properties.Resources.resources
+D:\课程设计-药库管理\课程设计-药库管理\obj\Debug\课程设计-药库管理.csproj.GenerateResource.cache
+D:\课程设计-药库管理\课程设计-药库管理\obj\Debug\课程设计-药库管理.csproj.CoreCompileInputs.cache
+D:\课程设计-药库管理\课程设计-药库管理\obj\Debug\课程设计-药库管理.exe
+D:\课程设计-药库管理\课程设计-药库管理\obj\Debug\课程设计-药库管理.pdb
+D:\课程设计-药库管理\课程设计-药库管理\obj\Debug\课程设计_药库管理.frm_Manage.resources
